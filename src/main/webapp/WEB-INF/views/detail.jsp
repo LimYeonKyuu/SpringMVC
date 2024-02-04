@@ -166,7 +166,7 @@
         </div>
         <div class="option">
             <ul>
-                <li><a href="" class="mainmenu">三 글 목록</a></li>
+                <li><a href="${context}/boards" class="mainmenu">三 글 목록</a></li>
                 <li><a href="" class="update">👻 수정하기</a></li>
                 <li><a href="" class="delete">💀 삭제하기</a></li>
             </ul>
